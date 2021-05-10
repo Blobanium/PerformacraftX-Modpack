@@ -14,7 +14,7 @@
       "caption": "@thatorthis.rule.default.caption",
       "tooltip": "@thatorthis.rule.default.tooltip",
 
-      "directories": [ "thatorthis" ],
+      "directories": [ "misc" ],
       "defaults": [ ]
     },
         {

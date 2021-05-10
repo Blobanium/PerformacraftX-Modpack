@@ -24,7 +24,7 @@
     "nested1": {
       "choices": {
         "performance": {
-          "choice": "optifine",
+          "choice": "none",
           "type": "DEFINED"
         },
         "generated1": {
