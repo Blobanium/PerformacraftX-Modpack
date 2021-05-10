@@ -6,7 +6,7 @@
       "type": "GENERATED"
     },
     "performance": {
-      "choice": "optifine",
+      "choice": "none",
       "type": "DEFINED"
     },
     "generated1": {
@@ -24,7 +24,7 @@
     "nested1": {
       "choices": {
         "performance": {
-          "choice": "none",
+          "choice": "optifine",
           "type": "DEFINED"
         },
         "generated1": {

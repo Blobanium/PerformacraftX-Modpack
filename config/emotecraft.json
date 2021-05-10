@@ -1,0 +1,19 @@
+{
+  "config_version": 2,
+  "dark": false,
+  "perspective": true,
+  "default3rdPersonFront": false,
+  "loadbuiltin": true,
+  "showicon": true,
+  "quark": false,
+  "enableNSFW": false,
+  "debug": true,
+  "validate": false,
+  "validationThreshold": 8.0,
+  "alwaysValidateEmote": false,
+  "playersafety": true,
+  "stopthreshold": 0.04,
+  "yratio": 0.75,
+  "fastmenu": {},
+  "keys": []
+}

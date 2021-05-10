@@ -1,0 +1,8 @@
+
+*.gz
+*.log
+.fabric/**
+.mixin.out/**
+craftpresence/**
+not-enough-crashes/**
+realms_persistence.json
