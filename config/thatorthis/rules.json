@@ -1,0 +1,79 @@
+{
+  "rules": [
+    {
+      "id": "usage",
+      "type": "DISABLED",
+
+      "caption": "@thatorthis.rule.usage.caption",
+      "tooltip": "@thatorthis.rule.usage.tooltip"
+    },
+    {
+      "id": "default",
+      "type": "GENERATED",
+
+      "caption": "@thatorthis.rule.default.caption",
+      "tooltip": "@thatorthis.rule.default.tooltip",
+
+      "directories": [ "thatorthis" ],
+      "defaults": [ ]
+    },
+        {
+          "id": "performance",
+          "type": "DEFINED",
+          "caption": "Performance Package: %s",
+          "tooltip": "Choose Between Optifine, Sodium, or Canvas",
+          "options": [
+            {
+              "id": "none",
+              "caption": "None",
+              "directories": [ "performancepackage/none" ]
+            },
+            {
+              "id": "optifine",
+              "caption": "Optifine",
+              "directories": [ "performancepackage/optifabric" ]
+            },
+            {
+              "id": "sodium",
+              "caption": "Sodium",
+              "directories": [ "performancepackage/sodium" ]
+            },
+            {
+              "id": "canvas",
+              "caption": "Canvas",
+              "directories": [ "performancepackage/canvas" ]
+            }
+          ]
+        },
+    {
+      "id": "generated1",
+      "type": "GENERATED",
+
+      "caption": "Performace Mods",
+      "tooltip": "Toggle performance mods",
+
+      "directories": [ "performance" ],
+      "defaults": [ ]
+    },
+    {
+      "id": "generated2",
+      "type": "GENERATED",
+
+      "caption": "Enhancement Mods",
+      "tooltip": "Toggle Enchancement mods",
+
+      "directories": [ "enhancement" ],
+      "defaults": [ ]
+    },
+    {
+      "id": "generated3",
+      "type": "GENERATED",
+
+      "caption": "Cosmetic Mods",
+      "tooltip": "Toggle Cosmetic mods",
+
+      "directories": [ "cosmetic" ],
+      "defaults": [ ]
+    }
+  ]
+}

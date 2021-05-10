@@ -1,0 +1,48 @@
+{
+  "choices": {
+    "default": {
+      "choices": [],
+      "disabled": false,
+      "type": "GENERATED"
+    },
+    "performance": {
+      "choice": "optifine",
+      "type": "DEFINED"
+    },
+    "generated1": {
+      "choices": [],
+      "disabled": false,
+      "type": "GENERATED"
+    },
+    "generated2": {
+      "choices": [
+        "offlineskins"
+      ],
+      "disabled": false,
+      "type": "GENERATED"
+    },
+    "nested1": {
+      "choices": {
+        "performance": {
+          "choice": "optifine",
+          "type": "DEFINED"
+        },
+        "generated1": {
+          "choices": [],
+          "disabled": false,
+          "type": "GENERATED"
+        }
+      },
+      "disabled": false,
+      "type": "NESTED"
+    },
+    "generated3": {
+      "choices": [
+        "chat_heads"
+      ],
+      "disabled": false,
+      "type": "GENERATED"
+    }
+  },
+  "disabled": false
+}
