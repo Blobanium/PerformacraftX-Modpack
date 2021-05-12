@@ -4,7 +4,9 @@ A somewhat alternitave to Lunar Client. Still in WIP.
 
 ## Things that i still need to do
 
-* credit everyones mods i included into this modpack
+* Credit everyones mods i included into this modpack
+
+* Remove any unnessesary mods (if needed)
 
 ## Mods Included
 
