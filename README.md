@@ -35,3 +35,57 @@ Ferritecore
 lazyDFU
 Smooth Boot
 Starlight
+
+### Cosmetic Mods (mods/cosmetic)
+
+AnyCapes
+Better Dropped Items
+Better Third Person
+Custom HUD
+Damage Tilt
+Dark Loading Screen
+Emotecraft
+Figura
+FirstPersonMod
+Illuminations
+MinecraftCapes
+Mojank
+NamePain
+NotEnoughAnimations
+Presence Footsteps
+Seamless Loading Screen
+Slight GUI Modifications
+Smooth Scrolling Everywhere
+
+### Enhancement Mods (mods/enhancement)
+
+Audio Output
+AutoReconnect
+BetterF3
+BetterLocalServer
+Bobby
+BoostedBrightness
+Command Keybind
+CraftPresence
+CurseMods
+CustomWindowTitle
+DynamicFPS
+Fabrishot
+Loading Timer
+ModUpdater
+NumericPing
+Pling
+Pop-out-chat
+Respackopts
+Screenshot to clipboard
+Smaller fps increments
+Spark
+tooltipfix
+WI-Zoom
+WorldEdit CUI
+
+### Other mods (mods/misc)
+
+Blame
+MixinTrace
+Slyde
