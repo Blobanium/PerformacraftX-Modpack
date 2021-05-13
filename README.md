@@ -2,6 +2,8 @@
 
 A somewhat alternitave to Lunar Client. Still in WIP.
 
+NOTE: If there is a mod thats yours and want to have your mod removed from this pack, please let Blobanium know.
+
 ## Things that i still need to do
 
 * Credit everyones mods i included into this modpack
@@ -13,17 +15,17 @@ A somewhat alternitave to Lunar Client. Still in WIP.
 ***
 ### Required Dependicies/Critical Mods
 
-Architectury
+Architectury - shedaniel
 
-Cloth Config
+Cloth Config - shedaniel
 
-Fabric API
+Fabric API - Modmuss50
 
-Mod Menu
+Mod Menu - TerraformersMC
 
-thatorthis
+thatorthis - EZForever
 
-TRansliterationLib
+TRansliterationLib - tr7zw
 
 ***
 ### Primary Performance Mods (mods/performancepackage)
@@ -31,11 +33,13 @@ TRansliterationLib
     - Note That you may only choose one
 
 
-Optifabric (Note that Optifine Is not included into this modpack, you need to install it yourself.)
+Optifabric - Chocohead
+* (Note that Optifine Is not included into this modpack, you need to install it yourself.)
 
-Sodium (Sodium extra will also be included also)
+Sodium - Jellysquid/CaffineMC
+* (Sodium extra by FlashyReese will also be included also)
 
-Canvas
+Canvas Renderer - grondagthebarbarian
 
 Or you can not choose any at all! (if theres something wrong with all three. Additionally This is the default option.)
 
@@ -43,122 +47,118 @@ Or you can not choose any at all! (if theres something wrong with all three. Add
 
 ### Secondary Performance Mods (mods/performance)
 
-Better Beds
+Better Beds - Motschen
 
-Enhanced Block Entities
+Enhanced Block Entities - FoundationGames
 
-Entity Culling
+Entity Culling - tr7zw
 
-Ferritecore
+Ferritecore - malte0811
 
-lazyDFU
+lazyDFU - astei
 
-Smooth Boot
+Smooth Boot - UltimateBoomer
 
-Starlight
+Starlight - Spottedleaf
 
 ***
 
 ### Cosmetic Mods (mods/cosmetic)
 
-AnyCapes
+AnyCapes - Pepper_Bell
 
-Better Dropped Items
+Better Dropped Items - Draylar
 
-Better Third Person
+Better Third Person - Socllio, DreenDex
 
-Custom HUD
+Damage Tilt - Charles445
 
-Damage Tilt
+Dark Loading Screen - Neecko
 
-Dark Loading Screen
+Emotecraft - KosmX
 
-Emotecraft
+Figura - Zandra
 
-Figura
+FirstPersonMod - tr7zw
 
-FirstPersonMod
+Illuminations - doctor4t
 
-Illuminations
+MinecraftCapes - james090500
 
-MinecraftCapes
+Mojank - magistermaks
 
-Mojank
+NamePain - naqaden
 
-NamePain
+NotEnoughAnimations - tr7zw
 
-NotEnoughAnimations
+Presence Footsteps - S0llace
 
-Presence Footsteps
+Seamless Loading Screen - Minenash
 
-Seamless Loading Screen
+'Slight' GUI Modifications - shedaniel
 
-Slight GUI Modifications
-
-Smooth Scrolling Everywhere
+Smooth Scrolling Everywhere - shedaniel
 
 ***
 
 ### Enhancement Mods (mods/enhancement)
 
-Audio Output
+Audio Output - Maximumgame
 
-AutoReconnect
+AutoReconnect - Bstn1802
 
-BetterF3
+BetterF3 - cominixo
 
-BetterLocalServer
+BetterLocalServer - rederpz
 
-Bobby
+Bobby - johni0702
 
-BoostedBrightness
+BoostedBrightness - adamviola
 
-Command Keybind
+Command Keybind - kryptonaught
 
-CraftPresence
+CraftPresence - CDAGaming
 
-CurseMods
+CurseMods - Deftware
 
-CustomWindowTitle
+CustomWindowTitle - chylex
 
-DynamicFPS
+DynamicFPS - juliand665
 
-Fabrishot
+Fabrishot - ramidzkh
 
-KhonHUD
+KhonHUD - DarkKronicle
 
-Loading Timer
+Loading Timer - Blobanium (me!!)
 
-ModUpdater
+ModUpdater - TheBrokenRail
 
-NumericPing
+NumericPing - Plumz
 
-Ok Zoomer
+Ok Zoomer - joaoh1
 
-Pling
+Pling - haykam821
 
-Pop-out-chat
+Popout chat - Ocelot
 
-Respackopts
+Resource Pack Options - JFronny
 
-Screenshot to clipboard
+Screenshot to clipboard - comp500
 
-Smaller fps increments
+Smaller fps increments - Blayyke
 
-Spark
+Spark - lucko
 
-tooltipfix
+tooltipfix - kryptonaught
 
-WI-Zoom
-
-WorldEdit CUI
+WorldEdit CUI - mikroskeem
 
 ***
 
 ### Other mods (mods/misc)
 
-Blame
+Blame - TelepathicGrunt
 
-MixinTrace
+MixinTrace - comp500
 
-Slyde
+Slyde - JFronny
