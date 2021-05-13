@@ -34,7 +34,7 @@ TRansliterationLib - tr7zw
 
 
 Optifabric - Chocohead
-* (Note that Optifine Is not included into this modpack, you need to install it yourself.)
+* **(Note that Optifine Is not included in this modpack, you need to install it yourself.)**
 
 Sodium - Jellysquid/CaffineMC
 * (Sodium extra by FlashyReese will also be included also)
