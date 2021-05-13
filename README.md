@@ -6,7 +6,7 @@ NOTE: If there is a mod thats yours and want to have your mod removed from this 
 
 ## Things that i still need to do
 
-* Credit everyones mods i included into this modpack
+* ~~Credit everyones mods i included into this modpack~~ now we need to create a link to everyones mod.
 
 * Remove any unnessesary mods (if needed)
 
