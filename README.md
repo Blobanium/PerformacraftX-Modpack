@@ -125,11 +125,15 @@ DynamicFPS
 
 Fabrishot
 
+KhonHUD
+
 Loading Timer
 
 ModUpdater
 
 NumericPing
+
+Ok Zoomer
 
 Pling
 
