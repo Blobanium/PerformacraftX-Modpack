@@ -19,6 +19,8 @@ Architectury - shedaniel
 
 Cloth Config - shedaniel
 
+Custom Window Title - chylex
+
 Fabric API - Modmuss50
 
 Mod Menu - TerraformersMC
