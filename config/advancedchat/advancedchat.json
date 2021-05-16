@@ -1,0 +1,78 @@
+{
+  "general": {
+    "timeFormat": "hh:mm",
+    "timeTextFormat": "[%TIME%] ",
+    "time_color": "#FFFFFFFF",
+    "clearOnDisconnect": true,
+    "chatStack": 0,
+    "chatHeads": false,
+    "messageOwnerRegex": "[A-Za-z0-9_§]{3,16}"
+  },
+  "chatscreen": {
+    "width": 280,
+    "height": 117,
+    "x": 0,
+    "y": 30,
+    "messageSpace": 0,
+    "lineSpace": 9,
+    "leftPad": 2,
+    "rightPad": 2,
+    "bottomPad": 1,
+    "topPad": 0,
+    "showTabs": true,
+    "visibility": "vanilla",
+    "advancedchat.config.chatscreen.chatScale": 1.0,
+    "fadeTime": 40,
+    "fadeStart": 100,
+    "fadeType": "linear",
+    "hudbackgroundcolor": "#64000000",
+    "emptyTextColor": "#FFFFFFFF",
+    "tabSideChars": 3,
+    "hudLineType": "full",
+    "alternateLines": false,
+    "showTime": false,
+    "storedLines": 200,
+    "persistentText": false,
+    "moreText": false,
+    "sendToCurrentTab": false
+  },
+  "chatlog": {
+    "storedlines": 1000,
+    "showtime": false
+  },
+  "chatsuggestor": {
+    "highlightColor": "#FFFFFF00",
+    "unhighlightColor": "#FFAAAAAA",
+    "backgroundColor": "#AA000000",
+    "suggestionSize": 10,
+    "removeIdentifier": true,
+    "prunePlayerSuggestions": true,
+    "availableSuggestionColor": "#FF969696"
+  },
+  "filters": [],
+  "chattabs": [],
+  "formatters": {
+    "commandcolorer": {
+      "active": true
+    },
+    "jsonformatter": {
+      "active": true
+    }
+  },
+  "suggestors": {
+    "players": {
+      "active": true
+    },
+    "shortcuts": {
+      "active": true,
+      "shortcuts": []
+    },
+    "calculator": {
+      "active": true
+    },
+    "spellcheck": {
+      "active": true
+    }
+  },
+  "config_version": 1
+}
