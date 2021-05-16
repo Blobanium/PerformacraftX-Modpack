@@ -1,13 +1,13 @@
 { 
-	"fluidAdvancements": false,
-	"fluidStatusEffects": false,
+	"fluidAdvancements": true,
+	"fluidStatusEffects": true,
 	// Whether we should unlimit the hard 60 fps limit placed on the title screen.
 	"unlimitTitleScreenFps": false,
 	"openingAnimation": { 
-		"fluidChatOpening": false,
-		"fluidOpenSlideFromBottom": false,
-		"fluidOpenFade": false,
-		"fluidAnimationDuration": 400,
+		"fluidChatOpening": true,
+		"fluidOpenSlideFromBottom": true,
+		"fluidOpenFade": true,
+		"fluidAnimationDuration": 245,
 		"affectsGameMenus": true,
 		"affectsInventories": true,
 		"ignoreSlideWhenRedirected": true,
@@ -61,5 +61,5 @@
 	},
 	// Whether GUI should allow right click actions.
 	"rightClickActions": false,
-	"satisfyingScreenshots": false
+	"satisfyingScreenshots": true
 }
