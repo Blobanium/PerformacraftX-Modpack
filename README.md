@@ -6,6 +6,10 @@ A somewhat alternitave to Lunar Client. Still in WIP.
 
 NOTE: If there is a mod thats yours and want to have your mod removed from this pack, please let Blobanium know.
 
+This modpack is designed for Minecraft 1.16.5
+
+If you need help Check wiki on this github
+
 ## Things that i still need to do
 
 * ~~Credit everyones mods i included into this modpack~~ now we probably need to create a link to everyones mod.
