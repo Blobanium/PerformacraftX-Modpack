@@ -25,6 +25,8 @@ Custom Window Title - chylex
 
 Fabric API - Modmuss50
 
+MaLiLib - masady
+
 Mod Menu - TerraformersMC
 
 thatorthis - EZForever
@@ -68,6 +70,10 @@ Starlight - Spottedleaf
 ***
 
 ### Cosmetic Mods (mods/cosmetic)
+
+Advanced Chat - DarkKronicle
+
+AntiGhost - Giselbaer
 
 AnyCapes - Pepper_Bell
 
