@@ -19,23 +19,23 @@ If you need help Check wiki on this github
 ## Mods Included
 
 ***
-### Required Dependicies/Critical Mods
+### Required Dependencies/Critical Mods
 
-Architectury - shedaniel
+[Architectury](https://www.curseforge.com/minecraft/mc-mods/architectury-fabric) - shedaniel
 
-Cloth Config - shedaniel
+[Cloth Config](https://www.curseforge.com/minecraft/mc-mods/cloth-config) - shedaniel
 
-Custom Window Title - chylex
+[Custom Window Title](https://www.curseforge.com/minecraft/mc-mods/custom-window-title) - chylex
 
-Fabric API - Modmuss50
+[Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api) - Modmuss50
 
-MaLiLib - masady
+[MaLiLib](https://www.curseforge.com/minecraft/mc-mods/malilib) - masady
 
-Mod Menu - TerraformersMC
+[Mod Menu](https://www.curseforge.com/minecraft/mc-mods/modmenu) - TerraformersMC
 
-thatorthis - EZForever
+[thatorthis](https://modrinth.com/mod/thatorthis) - EZForever
 
-TRansliterationLib - tr7zw
+[TRansliterationLib](https://www.curseforge.com/minecraft/mc-mods/transliterationlib) - tr7zw
 
 ***
 ### Primary Performance Mods (mods/performancepackage)
