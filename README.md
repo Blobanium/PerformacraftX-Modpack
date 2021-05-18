@@ -43,13 +43,13 @@ If you need help Check wiki on this github
     - Note That you may only choose one
 
 
-Optifabric - Chocohead
+[Optifabric](https://www.curseforge.com/minecraft/mc-mods/optifabric) - Chocohead
 * **(Note that Optifine Is not included in this modpack, you need to install it yourself.)**
 
-Sodium - Jellysquid/CaffineMC
-* (Sodium extra by FlashyReese will also be included also)
+[Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium) - Jellysquid/CaffineMC
+* ([Sodium extra](https://www.curseforge.com/minecraft/mc-mods/sodium-extra) by FlashyReese will also be included also)
 
-Canvas Renderer - grondagthebarbarian
+[Canvas Renderer](https://www.curseforge.com/minecraft/mc-mods/canvas-renderer) - grondagthebarbarian
 
 Or you can not choose any at all! (if theres something wrong with all three. Additionally This is the default option.)
 
@@ -57,19 +57,19 @@ Or you can not choose any at all! (if theres something wrong with all three. Add
 
 ### Secondary Performance Mods (mods/performance)
 
-Better Beds - Motschen
+[Better Beds](https://modrinth.com/mod/better-beds) - Motschen
 
-Enhanced Block Entities - FoundationGames
+[Enhanced Block Entities](https://modrinth.com/mod/ebe) - FoundationGames
 
-Entity Culling - tr7zw
+[Entity Culling](https://www.curseforge.com/minecraft/mc-mods/entityculling) - tr7zw
 
-Ferritecore - malte0811
+[Ferritecore](https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric) - malte0811
 
-lazyDFU - astei
+[lazyDFU](https://modrinth.com/mod/lazydfu) - astei
 
-Smooth Boot - UltimateBoomer
+[Smooth Boot](https://www.curseforge.com/minecraft/mc-mods/smooth-boot) - UltimateBoomer
 
-Starlight - Spottedleaf
+[Starlight](https://github.com/Spottedleaf/Starlight) - Spottedleaf
 
 ***
 
