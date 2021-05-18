@@ -1,8 +1,10 @@
 # PerformacraftX-Modpack
 
+[![Discord](https://img.shields.io/discord/815339970259845151?color=%237289DA&label=Discord&style=for-the-badge)](https://discord.gg/GkZtk5RkyG)
+
 This is a Client side modpack, which means you can use it on any server!
 
-A somewhat alternitave to Lunar Client. Still in WIP.
+A somewhat alternitave to Lunar Client. Currently In Beta.
 
 NOTE: If there is a mod thats yours and want to have your mod removed from this pack, please let Blobanium know.
 
