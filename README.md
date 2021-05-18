@@ -75,43 +75,43 @@ Or you can not choose any at all! (if theres something wrong with all three. Add
 
 ### Cosmetic Mods (mods/cosmetic)
 
-Advanced Chat - DarkKronicle
+[Advanced Chat](https://modrinth.com/mod/advancedchat) - DarkKronicle
 
-AntiGhost - Giselbaer
+[AntiGhost](https://www.curseforge.com/minecraft/mc-mods/antighost) - Giselbaer
 
-AnyCapes - Pepper_Bell
+[AnyCapes](https://www.curseforge.com/minecraft/mc-mods/anycapes) - Pepper_Bell
 
-Better Dropped Items - Draylar
+[Better Dropped Items](https://www.curseforge.com/minecraft/mc-mods/better-dropped-items) - Draylar
 
-Better Third Person - Socllio, DreenDex
+[Better Third Person](https://www.curseforge.com/minecraft/mc-mods/better-third-person) - Socllio, DreenDex
 
-Damage Tilt - Charles445
+[Damage Tilt](https://www.curseforge.com/minecraft/mc-mods/damage-tilt) - Charles445
 
-Dark Loading Screen - Neecko
+[Dark Loading Screen](https://www.curseforge.com/minecraft/mc-mods/dark-loading-screen) - Neecko
 
-Emotecraft - KosmX
+[Emotecraft](https://www.curseforge.com/minecraft/mc-mods/emotecraft) - KosmX
 
-Figura - Zandra
+[Figura](https://www.curseforge.com/minecraft/mc-mods/figura) - Zandra
 
-FirstPersonMod - tr7zw
+[FirstPersonMod](https://www.curseforge.com/minecraft/mc-mods/first-person-model) - tr7zw
 
-Illuminations - doctor4t
+[Illuminations](https://www.curseforge.com/minecraft/mc-mods/illuminations) - doctor4t
 
-MinecraftCapes - james090500
+[MinecraftCapes](https://www.curseforge.com/minecraft/mc-mods/minecraftcapes-mod) - james090500
 
-Mojank - magistermaks
+[Mojank](https://www.curseforge.com/minecraft/mc-mods/mojank-logo) - magistermaks
 
-NamePain - naqaden
+[NamePain](https://www.curseforge.com/minecraft/mc-mods/name-pain) - naqaden
 
-NotEnoughAnimations - tr7zw
+[NotEnoughAnimations](https://www.curseforge.com/minecraft/mc-mods/not-enough-animations) - tr7zw
 
-Presence Footsteps - S0llace
+[Presence Footsteps](https://www.curseforge.com/minecraft/mc-mods/presence-footsteps) - S0llace
 
-Seamless Loading Screen - Minenash
+[Seamless Loading Screen](https://www.curseforge.com/minecraft/mc-mods/seamless-loading-screen) - Minenash
 
-'Slight' GUI Modifications - shedaniel
+['Slight' GUI Modifications](https://www.curseforge.com/minecraft/mc-mods/slight-gui-modifications) - shedaniel
 
-Smooth Scrolling Everywhere - shedaniel
+[Smooth Scrolling Everywhere](https://www.curseforge.com/minecraft/mc-mods/smooth-scrolling-everywhere-fabric) - shedaniel
 
 ***
 
