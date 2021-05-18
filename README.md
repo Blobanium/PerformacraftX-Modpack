@@ -117,25 +117,25 @@ Or you can not choose any at all! (if theres something wrong with all three. Add
 
 ### Enhancement Mods (mods/enhancement)
 
-Audio Output - Maximumgame
+[Audio Output](https://www.curseforge.com/minecraft/mc-mods/audio-output) - Maximumgame
 
-AutoReconnect - Bstn1802
+[AutoReconnect](https://www.curseforge.com/minecraft/mc-mods/autoreconnect) - Bstn1802
 
-BetterF3 - cominixo
+[BetterF3](https://www.curseforge.com/minecraft/mc-mods/betterf3) - cominixo
 
-BetterLocalServer - rederpz
+[BetterLocalServer](https://www.curseforge.com/minecraft/mc-mods/betterf3) - rederpz
 
-Bobby - johni0702
+[Bobby](https://www.curseforge.com/minecraft/mc-mods/bobby) - johni0702
 
-BoostedBrightness - adamviola
+[BoostedBrightness](https://www.curseforge.com/minecraft/mc-mods/boosted-brightness) - adamviola
 
-Command Keybind - kryptonaught
+[Command Macros](https://www.curseforge.com/minecraft/mc-mods/command-macros) - kryptonaught
 
-CraftPresence - CDAGaming
+[CraftPresence](https://www.curseforge.com/minecraft/mc-mods/craftpresence) - CDAGaming
 
-CurseMods - Deftware
+[CurseMods](https://www.curseforge.com/minecraft/mc-mods/cursemods) - Deftware
 
-CustomWindowTitle - chylex
+[CustomWindowTitle](https://www.curseforge.com/minecraft/mc-mods/custom-window-title) - chylex
 
 DynamicFPS - juliand665
 
