@@ -155,8 +155,6 @@ Or you can not choose any at all! (if theres something wrong with all three. Add
 
 [Pling](https://www.curseforge.com/minecraft/mc-mods/pling) - haykam821
 
-Popout chat - Ocelot
-
 Resource Pack Options - JFronny
 
 Screenshot to clipboard - comp500
