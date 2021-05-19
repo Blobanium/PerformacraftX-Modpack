@@ -14,8 +14,6 @@ If you need help Check wiki on this github
 
 ## Things that i still need to do
 
-* ~~Credit everyones mods i included into this modpack~~ now we probably need to create a link to everyones mod.
-
 * Remove any unnessesary mods (if needed)
 
 ## Mods Included
@@ -155,24 +153,24 @@ Or you can not choose any at all! (if theres something wrong with all three. Add
 
 [Pling](https://www.curseforge.com/minecraft/mc-mods/pling) - haykam821
 
-Resource Pack Options - JFronny
+[Respackopts](https://www.curseforge.com/minecraft/mc-mods/respackopts) - JFronny
 
-Screenshot to clipboard - comp500
+[Screenshot to clipboard](https://www.curseforge.com/minecraft/mc-mods/screenshot-to-clipboard-fabric) - comp500
 
-Smaller fps increments - Blayyke
+[Smaller fps increments](https://www.curseforge.com/minecraft/mc-mods/smallerfpsincrements) - Blayyke
 
-Spark - lucko
+[Spark](https://www.curseforge.com/minecraft/mc-mods/spark) - lucko
 
-tooltipfix - kryptonaught
+[tooltipfix](https://www.curseforge.com/minecraft/mc-mods/tooltipfix) - kryptonaught
 
-WorldEdit CUI - mikroskeem
+[WorldEdit CUI](https://www.curseforge.com/minecraft/mc-mods/worldeditcui-fabric) - mikroskeem
 
 ***
 
 ### Other mods (mods/misc)
 
-Blame - TelepathicGrunt
+[Blame](https://www.curseforge.com/minecraft/mc-mods/blame-fabric) - TelepathicGrunt
 
-MixinTrace - comp500
+[MixinTrace](https://www.curseforge.com/minecraft/mc-mods/mixintrace) - comp500
 
-Slyde - JFronny
+[Slyde](https://www.curseforge.com/minecraft/mc-mods/slyde) - JFronny
