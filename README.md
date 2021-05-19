@@ -139,21 +139,21 @@ Or you can not choose any at all! (if theres something wrong with all three. Add
 
 [CustomWindowTitle](https://www.curseforge.com/minecraft/mc-mods/custom-window-title) - chylex
 
-DynamicFPS - juliand665
+[DynamicFPS](https://www.curseforge.com/minecraft/mc-mods/dynamic-fps) - juliand665
 
-Fabrishot - ramidzkh
+[Fabrishot](https://www.curseforge.com/minecraft/mc-mods/fabrishot) - ramidzkh
 
-KhonHUD - DarkKronicle
+[KhonHUD](https://www.curseforge.com/minecraft/mc-mods/kronhud) - DarkKronicle
 
-Loading Timer - Blobanium (me!!)
+[Loading Timer](https://www.curseforge.com/minecraft/mc-mods/loading-timer/files/3288861) - Blobanium (me!!)
 
-ModUpdater - TheBrokenRail
+[ModUpdater](https://www.curseforge.com/minecraft/mc-mods/modupdater) - TheBrokenRail
 
-NumericPing - Plumz
+[NumericPing](https://www.curseforge.com/minecraft/mc-mods/numericping) - Plumz
 
-Ok Zoomer - joaoh1
+[Ok Zoomer](https://www.curseforge.com/minecraft/mc-mods/ok-zoomer) - joaoh1
 
-Pling - haykam821
+[Pling](https://www.curseforge.com/minecraft/mc-mods/pling) - haykam821
 
 Popout chat - Ocelot
 
