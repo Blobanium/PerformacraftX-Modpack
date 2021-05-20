@@ -4,7 +4,7 @@
 
 This is a Client side modpack, which means you can use it on any server!
 
-A somewhat alternitave to Lunar Client. Currently In Beta.
+A somewhat alternitave to Lunar Client. Currently In Open Alpha.
 
 NOTE: If there is a mod thats yours and want to have your mod removed from this pack, please let Blobanium know.
 
