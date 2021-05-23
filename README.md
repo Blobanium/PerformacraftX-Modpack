@@ -25,13 +25,13 @@ If you need help Check wiki on this github
 
 [Cloth Config](https://www.curseforge.com/minecraft/mc-mods/cloth-config) - shedaniel
 
-[Custom Window Title](https://www.curseforge.com/minecraft/mc-mods/custom-window-title) - chylex
-
 [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api) - Modmuss50
 
 [MaLiLib](https://www.curseforge.com/minecraft/mc-mods/malilib) - masady
 
 [Mod Menu](https://www.curseforge.com/minecraft/mc-mods/modmenu) - TerraformersMC
+
+[Performacraft Manager Mod](https://github.com/Blobanium/Performacraft-Manager) - Blobanium
 
 [thatorthis](https://modrinth.com/mod/thatorthis) - EZForever
 

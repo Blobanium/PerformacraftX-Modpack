@@ -7,4 +7,5 @@ craftpresence/**
 not-enough-crashes/**
 realms_persistence.json
 ModTranslations/**
-
+.idea/**
+PerformacraftX-Modpack.iml
