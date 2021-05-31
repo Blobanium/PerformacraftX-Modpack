@@ -12,6 +12,10 @@ This modpack is designed for Minecraft 1.16.5
 
 If you need help Check wiki on this github
 
+## NOTICE
+
+Mod updates are currently on hold until 1.17 Releases.
+
 ## Things that i still need to do
 
 * Remove any unnessesary mods (if needed)
