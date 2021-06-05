@@ -133,8 +133,6 @@ Or you can not choose any at all! (if theres something wrong with all three. Add
 
 [CraftPresence](https://www.curseforge.com/minecraft/mc-mods/craftpresence) - CDAGaming
 
-[CurseMods](https://www.curseforge.com/minecraft/mc-mods/cursemods) - Deftware
-
 [CustomWindowTitle](https://www.curseforge.com/minecraft/mc-mods/custom-window-title) - chylex
 
 [DynamicFPS](https://www.curseforge.com/minecraft/mc-mods/dynamic-fps) - juliand665
