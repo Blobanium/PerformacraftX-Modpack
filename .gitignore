@@ -4,6 +4,7 @@
 .fabric/**
 .mixin.out/**
 craftpresence/**
+crash-reports/**
 not-enough-crashes/**
 realms_persistence.json
 ModTranslations/**
