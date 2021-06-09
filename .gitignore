@@ -10,3 +10,5 @@ realms_persistence.json
 ModTranslations/**
 .idea/**
 PerformacraftX-Modpack.iml
+saves/**
+usercache.json
