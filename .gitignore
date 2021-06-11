@@ -12,3 +12,5 @@ ModTranslations/**
 PerformacraftX-Modpack.iml
 saves/**
 usercache.json
+config/multiconnect/caches/**
+config/multiconnect/servers_ext.json

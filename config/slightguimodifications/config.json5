@@ -1,9 +1,9 @@
-{ 
+{
 	"fluidAdvancements": true,
 	"fluidStatusEffects": true,
 	// Whether we should unlimit the hard 60 fps limit placed on the title screen.
 	"unlimitTitleScreenFps": false,
-	"openingAnimation": { 
+	"openingAnimation": {
 		"fluidChatOpening": true,
 		"fluidOpenSlideFromBottom": true,
 		"fluidOpenFade": true,
@@ -13,7 +13,7 @@
 		"ignoreSlideWhenRedirected": true,
 		"ignoreFadeWhenRedirected": false
 	},
-	"textFieldModifications": { 
+	"textFieldModifications": {
 		// Whether this module is enabled.
 		"enabled": false,
 		/* Set to Color to use the Border and Background Color.
@@ -29,7 +29,7 @@
 		// Whether Text Fields should allow right click actions.
 		"rightClickActions": false
 	},
-	"sliderModifications": { 
+	"sliderModifications": {
 		// Whether this module is enabled.
 		"enabled": false,
 		"grabberWidth": 8,
@@ -40,19 +40,19 @@
 		*/
 		"customBackgroundTexture": false
 	},
-	"debugInformation": { 
+	"debugInformation": {
 		"showFps": false
 	},
-	"customScaling": { 
+	"customScaling": {
 		"vanillaScaleSlider": false,
 		"scale": 1.0
 	},
-	"slotHighlight": { 
+	"slotHighlight": {
 		// Whether this module is enabled.
 		"enabled": false,
 		"color": -2130706433
 	},
-	"tooltipModifications": { 
+	"tooltipModifications": {
 		// Whether this module is enabled.
 		"enabled": false,
 		"backgroundColor": -267386864,
