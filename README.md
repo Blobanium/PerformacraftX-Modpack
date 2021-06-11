@@ -33,6 +33,8 @@ Mod updates are currently on hold until 1.17 Releases.
 
 Please note that some mods have been modified for compatability reasons (any mods that have been modified are displayed with a "*" right after their name) 
 
+**NOTE:** only a few mods in this list are not yet inside the modpack at the moment
+
 ### Required Dependencies/Critical Mods
 
 [Architectury](https://www.curseforge.com/minecraft/mc-mods/architectury-fabric) - shedaniel
