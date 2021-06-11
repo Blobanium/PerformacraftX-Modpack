@@ -14,3 +14,10 @@ saves/**
 usercache.json
 config/multiconnect/caches/**
 config/multiconnect/servers_ext.json
+server-resource-packs/**
+servers.dat
+servers.dat_old
+servers.dat_old
+servers.dat
+servers.dat
+servers.dat
