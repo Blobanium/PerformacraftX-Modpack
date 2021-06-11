@@ -30,6 +30,9 @@ Mod updates are currently on hold until 1.17 Releases.
 ## Mods Included
 
 ***
+
+Please note that some mods have been modified for compatability reasons (any mods that have been modified are displayed with a "*" right after their name) 
+
 ### Required Dependencies/Critical Mods
 
 [Architectury](https://www.curseforge.com/minecraft/mc-mods/architectury-fabric) - shedaniel
@@ -106,7 +109,7 @@ Or you can not choose any at all! (if theres something wrong with all three. Add
 
 [Illuminations](https://www.curseforge.com/minecraft/mc-mods/illuminations) - doctor4t
 
-[Mojank](https://www.curseforge.com/minecraft/mc-mods/mojank-logo) - magistermaks
+[Mojank](https://www.curseforge.com/minecraft/mc-mods/mojank-logo)* - magistermaks
 
 [NamePain](https://www.curseforge.com/minecraft/mc-mods/name-pain) - naqaden
 
@@ -140,8 +143,6 @@ Or you can not choose any at all! (if theres something wrong with all three. Add
 
 [CraftPresence](https://www.curseforge.com/minecraft/mc-mods/craftpresence) - CDAGaming
 
-[CustomWindowTitle](https://www.curseforge.com/minecraft/mc-mods/custom-window-title) - chylex
-
 [DynamicFPS](https://www.curseforge.com/minecraft/mc-mods/dynamic-fps) - juliand665
 
 [Fabrishot](https://www.curseforge.com/minecraft/mc-mods/fabrishot) - ramidzkh
@@ -152,7 +153,7 @@ Or you can not choose any at all! (if theres something wrong with all three. Add
 
 [ModUpdater](https://www.curseforge.com/minecraft/mc-mods/modupdater) - TheBrokenRail
 
-[NumericPing](https://www.curseforge.com/minecraft/mc-mods/numericping) - Plumz
+[NumericPing](https://www.curseforge.com/minecraft/mc-mods/numericping)* - Plumz
 
 [Ok Zoomer](https://www.curseforge.com/minecraft/mc-mods/ok-zoomer) - joaoh1
 
@@ -179,3 +180,4 @@ Or you can not choose any at all! (if theres something wrong with all three. Add
 [MixinTrace](https://www.curseforge.com/minecraft/mc-mods/mixintrace) - comp500
 
 [Slyde](https://www.curseforge.com/minecraft/mc-mods/slyde) - JFronny
+
