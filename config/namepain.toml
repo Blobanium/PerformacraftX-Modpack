@@ -1,10 +1,14 @@
-namesWithoutHUD = false
-seeFrameNames = true
 applyToMobs = true
+seeInjuredNames = false
+injuredAlwaysNamed = false
 tamesAlwaysNamed = true
+villagersAlwaysNamed = true
 seeYourName = false
 applyToScores = false
 stripFormat = false
+seeFrameNames = true
+namesWithoutHUD = false
+visibleRange = 64
 doValentines = true
 doAprilFools = true
 
