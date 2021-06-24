@@ -151,6 +151,8 @@ Or you can not choose any at all! (if theres something wrong with all three. Add
 
 [NumericPing](https://www.curseforge.com/minecraft/mc-mods/numericping) - Plumz
 
+[Not Enough Crashes](https://www.curseforge.com/minecraft/mc-mods/not-enough-crashes) - Fudge
+
 [Ok Zoomer](https://www.curseforge.com/minecraft/mc-mods/ok-zoomer) - joaoh1
 
 [Pling](https://www.curseforge.com/minecraft/mc-mods/pling) - haykam821
