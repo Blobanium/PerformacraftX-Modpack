@@ -97,6 +97,8 @@ Or you can not choose any at all! (if theres something wrong with all three. Add
 
 [Emotecraft](https://www.curseforge.com/minecraft/mc-mods/emotecraft) - KosmX
 
+[Figura](https://modrinth.com/mod/figura) - ZandraInnes
+
 [FirstPersonMod](https://www.curseforge.com/minecraft/mc-mods/first-person-model) - tr7zw
 
 [Illuminations](https://www.curseforge.com/minecraft/mc-mods/illuminations) - doctor4t

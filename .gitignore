@@ -9,3 +9,9 @@ realms_persistence.json
 ModTranslations/**
 .idea/**
 PerformacraftX-Modpack.iml
+screenshots/**
+saves/**
+crash-reports/**
+config/multiconnect/caches/**
+server-resource-packs/**
+usercache.json
