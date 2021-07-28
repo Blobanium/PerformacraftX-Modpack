@@ -6,7 +6,7 @@
       "type": "GENERATED"
     },
     "performance": {
-      "choice": "none",
+      "choice": "sodium",
       "type": "DEFINED"
     },
     "generated1": {
@@ -15,12 +15,17 @@
       "type": "GENERATED"
     },
     "generated2": {
-      "choices": [],
+      "choices": [
+        "bobby"
+      ],
       "disabled": false,
       "type": "GENERATED"
     },
     "generated3": {
-      "choices": [],
+      "choices": [
+        "seamless_loading_screen",
+        "mojank_emoji"
+      ],
       "disabled": false,
       "type": "GENERATED"
     }

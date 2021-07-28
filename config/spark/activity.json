@@ -1,0 +1,67 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "Blobanium",
+      "uniqueId": "e92c0b6b-0805-41b4-93f6-56d2f4f25706"
+    },
+    "time": 1626298059430,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/HTrtQY1JHV"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Blobanium",
+      "uniqueId": "e92c0b6b-0805-41b4-93f6-56d2f4f25706"
+    },
+    "time": 1626296784595,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/sswIiKrW1T"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Blobanium",
+      "uniqueId": "e92c0b6b-0805-41b4-93f6-56d2f4f25706"
+    },
+    "time": 1625167912198,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/QjREAhC0bh"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Blobanium",
+      "uniqueId": "e92c0b6b-0805-41b4-93f6-56d2f4f25706"
+    },
+    "time": 1625162857362,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/al717U94CM"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Blobanium",
+      "uniqueId": "e92c0b6b-0805-41b4-93f6-56d2f4f25706"
+    },
+    "time": 1625098230421,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/eWIxgRDsd7"
+    }
+  }
+]
