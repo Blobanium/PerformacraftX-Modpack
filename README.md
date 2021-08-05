@@ -87,25 +87,15 @@ Or you can not choose any at all! (if theres something wrong with all three. Add
 
 ### Cosmetic Mods (mods/cosmetic)
 
-[Advanced Chat](https://modrinth.com/mod/advancedchat) - DarkKronicle
-
-[AntiGhost](https://www.curseforge.com/minecraft/mc-mods/antighost) - Giselbaer
-
-[AnyCapes](https://www.curseforge.com/minecraft/mc-mods/anycapes) - Pepper_Bell
-
 [Better Dropped Items](https://www.curseforge.com/minecraft/mc-mods/better-dropped-items) - Draylar
 
 [Better Third Person](https://www.curseforge.com/minecraft/mc-mods/better-third-person) - Socllio, DreenDex
 
 [Damage Tilt](https://www.curseforge.com/minecraft/mc-mods/damage-tilt) - Charles445
 
-[Dark Loading Screen](https://www.curseforge.com/minecraft/mc-mods/dark-loading-screen) - Neecko
-
 [Emotecraft](https://www.curseforge.com/minecraft/mc-mods/emotecraft) - KosmX
 
 [FirstPersonMod](https://www.curseforge.com/minecraft/mc-mods/first-person-model) - tr7zw
-
-[Illuminations](https://www.curseforge.com/minecraft/mc-mods/illuminations) - doctor4t
 
 [Mojank](https://www.curseforge.com/minecraft/mc-mods/mojank-logo)* - magistermaks
 
@@ -119,8 +109,6 @@ Or you can not choose any at all! (if theres something wrong with all three. Add
 
 ['Slight' GUI Modifications](https://www.curseforge.com/minecraft/mc-mods/slight-gui-modifications) - shedaniel
 
-[Smooth Scrolling Everywhere](https://www.curseforge.com/minecraft/mc-mods/smooth-scrolling-everywhere-fabric) - shedaniel
-
 ***
 
 ### Enhancement Mods (mods/enhancement)
@@ -131,31 +119,21 @@ Or you can not choose any at all! (if theres something wrong with all three. Add
 
 [BetterF3](https://www.curseforge.com/minecraft/mc-mods/betterf3) - cominixo
 
-[BetterLocalServer](https://www.curseforge.com/minecraft/mc-mods/betterf3) - rederpz
-
 [Bobby](https://www.curseforge.com/minecraft/mc-mods/bobby) - johni0702
 
 [BoostedBrightness](https://www.curseforge.com/minecraft/mc-mods/boosted-brightness) - adamviola
 
 [Command Macros](https://www.curseforge.com/minecraft/mc-mods/command-macros) - kryptonaught
 
-[CraftPresence](https://www.curseforge.com/minecraft/mc-mods/craftpresence) - CDAGaming
-
 [DynamicFPS](https://www.curseforge.com/minecraft/mc-mods/dynamic-fps) - juliand665
 
 [Fabrishot](https://www.curseforge.com/minecraft/mc-mods/fabrishot) - ramidzkh
 
-[KhonHUD](https://www.curseforge.com/minecraft/mc-mods/kronhud) - DarkKronicle
-
 [Loading Timer](https://www.curseforge.com/minecraft/mc-mods/loading-timer/files/3288861) - Blobanium (me!!)
-
-[ModUpdater](https://www.curseforge.com/minecraft/mc-mods/modupdater) - TheBrokenRail
 
 [NumericPing](https://www.curseforge.com/minecraft/mc-mods/numericping)* - Plumz
 
 [Ok Zoomer](https://www.curseforge.com/minecraft/mc-mods/ok-zoomer) - joaoh1
-
-[Pling](https://www.curseforge.com/minecraft/mc-mods/pling) - haykam821
 
 [Respackopts](https://www.curseforge.com/minecraft/mc-mods/respackopts) - JFronny
 
@@ -167,15 +145,9 @@ Or you can not choose any at all! (if theres something wrong with all three. Add
 
 [tooltipfix](https://www.curseforge.com/minecraft/mc-mods/tooltipfix) - kryptonaught
 
-[WorldEdit CUI](https://www.curseforge.com/minecraft/mc-mods/worldeditcui-fabric) - mikroskeem
-
 ***
 
 ### Other mods (mods/misc)
-
-[Blame](https://www.curseforge.com/minecraft/mc-mods/blame-fabric) - TelepathicGrunt
-
-[MixinTrace](https://www.curseforge.com/minecraft/mc-mods/mixintrace) - comp500
 
 [Slyde](https://www.curseforge.com/minecraft/mc-mods/slyde) - JFronny
 
