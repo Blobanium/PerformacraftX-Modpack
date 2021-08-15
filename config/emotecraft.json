@@ -1,5 +1,5 @@
 {
-  "config_version": 2,
+  "config_version": 3,
   "dark": false,
   "perspective": true,
   "default3rdPersonFront": false,
@@ -14,6 +14,8 @@
   "playersafety": true,
   "stopthreshold": 0.04,
   "yratio": 0.75,
+  "showHiddenConfig": false,
+  "hideWarning": false,
   "fastmenu": {},
   "keys": []
 }

@@ -14,7 +14,9 @@ saves/**
 usercache.json
 config/multiconnect/caches/**
 config/multiconnect/servers_ext.json
+config/quantumfusion/**
 server-resource-packs/**
 servers.dat
 servers.dat_old
 screenshots/**
+

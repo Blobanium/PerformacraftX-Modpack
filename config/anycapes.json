@@ -1,9 +1,0 @@
-{
-  "capeUrls": [
-    "{mojang}",
-    "http://s.optifine.net/capes/{username}.png",
-    "https://minecraftcapes.net/profile/{uuid}/cape",
-    "https://dl.labymod.net/capes/{uuid-dash}"
-  ],
-  "useCaching": true
-}

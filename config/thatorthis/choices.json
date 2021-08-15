@@ -16,16 +16,13 @@
     },
     "generated2": {
       "choices": [
-        "bobby"
+        "autoreconnect"
       ],
       "disabled": false,
       "type": "GENERATED"
     },
     "generated3": {
-      "choices": [
-        "seamless_loading_screen",
-        "mojank_emoji"
-      ],
+      "choices": [],
       "disabled": false,
       "type": "GENERATED"
     }
