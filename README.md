@@ -87,15 +87,11 @@ Please note that some mods have been modified for compatability reasons (any mod
 
 [FirstPersonMod](https://www.curseforge.com/minecraft/mc-mods/first-person-model) - tr7zw
 
-[Mojank](https://www.curseforge.com/minecraft/mc-mods/mojank-logo)* - magistermaks
-
 [NamePain](https://www.curseforge.com/minecraft/mc-mods/name-pain) - naqaden
 
 [NotEnoughAnimations](https://www.curseforge.com/minecraft/mc-mods/not-enough-animations) - tr7zw
 
 [Presence Footsteps](https://www.curseforge.com/minecraft/mc-mods/presence-footsteps) - S0llace
-
-[Seamless Loading Screen](https://www.curseforge.com/minecraft/mc-mods/seamless-loading-screen) - Minenash
 
 ['Slight' GUI Modifications](https://www.curseforge.com/minecraft/mc-mods/slight-gui-modifications) - shedaniel
 
@@ -103,15 +99,15 @@ Please note that some mods have been modified for compatability reasons (any mod
 
 ### Enhancement Mods (mods/enhancement)
 
+[Advanced Chat (1.17 version should be in their discord)](https://modrinth.com/mod/advancedchat)
+
 [Audio Output](https://www.curseforge.com/minecraft/mc-mods/audio-output) - Maximumgame
 
-[AutoReconnect](https://www.curseforge.com/minecraft/mc-mods/autoreconnect) - Bstn1802
+[AutoReconnect (Disabled by default (Enable at your own risk))](https://www.curseforge.com/minecraft/mc-mods/autoreconnect) - Bstn1802
 
 [BetterF3](https://www.curseforge.com/minecraft/mc-mods/betterf3) - cominixo
 
 [Bobby](https://www.curseforge.com/minecraft/mc-mods/bobby) - johni0702
-
-[BoostedBrightness](https://www.curseforge.com/minecraft/mc-mods/boosted-brightness) - adamviola
 
 [Command Macros](https://www.curseforge.com/minecraft/mc-mods/command-macros) - kryptonaught
 
@@ -120,6 +116,8 @@ Please note that some mods have been modified for compatability reasons (any mod
 [Fabrishot](https://www.curseforge.com/minecraft/mc-mods/fabrishot) - ramidzkh
 
 [Loading Timer](https://www.curseforge.com/minecraft/mc-mods/loading-timer/files/3288861) - Blobanium (me!!)
+
+[Multiconnect](https://www.curseforge.com/minecraft/mc-mods/multiconnect)
 
 [NumericPing](https://www.curseforge.com/minecraft/mc-mods/numericping)* - Plumz
 
@@ -132,9 +130,6 @@ Please note that some mods have been modified for compatability reasons (any mod
 [Smaller fps increments](https://www.curseforge.com/minecraft/mc-mods/smallerfpsincrements) - Blayyke
 
 [Spark](https://www.curseforge.com/minecraft/mc-mods/spark) - lucko
-
-[tooltipfix](https://www.curseforge.com/minecraft/mc-mods/tooltipfix) - kryptonaught
-
 ***
 
 ### Other mods (mods/misc)
