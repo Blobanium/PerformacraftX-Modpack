@@ -16,7 +16,8 @@
     },
     "generated2": {
       "choices": [
-        "autoreconnect"
+        "autoreconnect",
+        "bobby"
       ],
       "disabled": false,
       "type": "GENERATED"
