@@ -11,13 +11,9 @@ A somewhat alternitave to Lunar Client. Currently In Open Alpha.
 
 NOTE: If there is a mod thats yours and want to have your mod removed from this pack, please let Blobanium know.
 
-This modpack is designed for Minecraft 1.16.5
+This modpack is designed for Minecraft 1.17.1
 
 If you need help Check wiki on this github
-
-## NOTICE
-
-Mod updates are currently on hold until 1.17 Releases.
 
 ## Things that i still need to do
 
@@ -39,6 +35,8 @@ Please note that some mods have been modified for compatability reasons (any mod
 
 [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api) - Modmuss50
 
+[LibGUI](https://www.curseforge.com/minecraft/mc-mods/libgui)
+
 [MaLiLib](https://www.curseforge.com/minecraft/mc-mods/malilib) - masady
 
 [Mod Menu](https://www.curseforge.com/minecraft/mc-mods/modmenu) - TerraformersMC
@@ -50,34 +48,26 @@ Please note that some mods have been modified for compatability reasons (any mod
 [TRansliterationLib](https://www.curseforge.com/minecraft/mc-mods/transliterationlib) - tr7zw
 
 ***
-### Primary Performance Mods (mods/performancepackage)
 
-    - Note That you may only choose one
-
-
-[Optifabric](https://www.curseforge.com/minecraft/mc-mods/optifabric) - Chocohead
-* **(Note that Optifine Is not included in this modpack, you need to install it yourself.)**
-
-[Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium) - Jellysquid/CaffineMC
-* ([Sodium extra](https://www.curseforge.com/minecraft/mc-mods/sodium-extra) by FlashyReese will also be included also)
-
-[Canvas Renderer](https://www.curseforge.com/minecraft/mc-mods/canvas-renderer) - grondagthebarbarian
-
-Or you can not choose any at all! (if theres something wrong with all three. Additionally This is the default option.)
-
-***
-
-### Secondary Performance Mods (mods/performance)
+### Performance Mods (mods/performance)
 
 [Better Beds](https://modrinth.com/mod/better-beds) - Motschen
 
-[Enhanced Block Entities](https://modrinth.com/mod/ebe) - FoundationGames
+[Dashloader](https://www.curseforge.com/minecraft/mc-mods/dashloader)
 
 [Entity Culling](https://www.curseforge.com/minecraft/mc-mods/entityculling) - tr7zw
 
 [Ferritecore](https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric) - malte0811
 
+[Iris (Starline Fork)](https://www.curseforge.com/minecraft/mc-mods/irisshaders)
+
 [lazyDFU](https://modrinth.com/mod/lazydfu) - astei
+
+[Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium)
+
+[Sodium (Iris/Starline fork)](https://github.com/IrisShaders/sodium-fabric)
+
+[Sodium Extra](https://www.curseforge.com/minecraft/mc-mods/sodium-extra)
 
 [Smooth Boot](https://www.curseforge.com/minecraft/mc-mods/smooth-boot) - UltimateBoomer
 
